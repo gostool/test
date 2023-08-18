@@ -4,4 +4,4 @@ hihj
 yui
 iio
 thu
-在这里添加中文python
+全部替换
